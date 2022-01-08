@@ -1,0 +1,9 @@
+{
+  "name": "kathiloop",
+  "version": "1.0.0",
+  "description": "A discord music bot",
+  "main": "index.js",
+  "repository": "https://github.com/DarkGenius2409/kathi-loop.git",
+  "author": "Nerdtastic",
+  "license": "MIT"
+}
